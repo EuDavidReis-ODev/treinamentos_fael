@@ -1,0 +1,14 @@
+{
+  "name": "fael",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.js"
+  },
+  "author": "laksdjf",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
